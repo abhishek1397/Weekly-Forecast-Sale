@@ -20,7 +20,7 @@ Forecast weekly sales using the Holt-Winters Exponential Smoothing model. This a
 
 | **Forecast Output**                         |
 |-----------------------------------------|
-| ![Streamlit app](https://github.com/user-attachments/assets/e6654a78-23ca-49eb-94e6-c46d21cbc941))       |
+| ![Streamlit app](https://github.com/user-attachments/assets/e6654a78-23ca-49eb-94e6-c46d21cbc941)       |
 
 ---
 
