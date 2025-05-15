@@ -59,4 +59,4 @@ if st.button("🔮 Generate Forecast"):
 # --- Footer ---
 st.markdown("---")
 st.caption("Made by Abhishek Sharma | © 2025 Sales AI")
-st.markdown("🔗 View Source Code on [GitHub](https://github.com/abhishek1397)")
+st.markdown("🔗 View Source Code on [GitHub](https://github.com/abhishek1397/Weekly-Forecast-Sale)")
