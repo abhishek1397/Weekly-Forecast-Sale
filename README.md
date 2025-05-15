@@ -22,19 +22,9 @@ Forecast weekly sales using the Holt-Winters Exponential Smoothing model. This a
 
 > _Add screenshots here after running the app locally_
 
-| Input Panel                        | Forecast Output                         |
-|-----------------------------------|-----------------------------------------|
-| ![Input](screenshots/input.png)   | ![Output](screenshots/output.png)       |
+| Forecast Output                         |
+|-----------------------------------------|
+| ![Streamlit app](https://github.com/user-attachments/assets/e6654a78-23ca-49eb-94e6-c46d21cbc941))       |
 
 ---
 
-## 📂 Project Structure
-
-```bash
-.
-├── app.py                      # Streamlit application
-├── Dockerfile                  # Docker config
-├── holt_winters_model.pkl      # Trained Holt-Winters model
-├── last_actual_value.pkl       # Last known actual sales value (used for inverse diff)
-├── requirements.txt            # Python dependencies
-└── README.md                   # Project documentation
