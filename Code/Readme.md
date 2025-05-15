@@ -62,7 +62,7 @@ After the baseline ML models, I explored classical time series methods to captur
 
 ## 📬 Author
 
-**Abhishek Kumar**  
+**Abhishek Sharma**  
 [GitHub Profile](https://github.com/abhishek1397)
 
 ---
