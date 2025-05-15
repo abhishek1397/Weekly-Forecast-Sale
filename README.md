@@ -1,4 +1,4 @@
-# 🧮 Sales Forecasting Web App using Holt-Winters
+# 🧮 Walmart Sales Forecasting Web App using Holt-Winters
 
 Forecast weekly sales using the Holt-Winters Exponential Smoothing model. This app allows users to interactively input forecasting parameters and view realistic, non-differenced sales predictions.
 
